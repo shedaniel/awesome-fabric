@@ -5,24 +5,14 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Fabric Toolchain](#fabric-toolchain)
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Fabric Toolchain
+- [Fabric API](https://github.com/FabricMC/fabric): Essential hooks and patches for modding with Fabric.
+- [Fabric Loader](https://github.com/FabricMC/fabric-loader): Fabric's mostly-version-independent mod loader.
+- [Yarn](https://github.com/FabricMC/yarn): Libre Minecraft mappings, free to use for everyone. No exceptions.
+- [Loom](https://github.com/FabricMC/fabric-loom): Gradle build system
 
 
 ## Contribute
