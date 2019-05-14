@@ -19,7 +19,7 @@ These are all the tools necessary to create a mod with Fabric.
 
 ## Mods made with Fabric
 These are mods that have been created with or ported to Fabric.
-- [AbusedLib](https://minecraft.curseforge.com/projects/abusedlib): A lib mod that i use in some of my mods
+- [AbusedLib](https://minecraft.curseforge.com/projects/abusedlib): A lib mod that are used in some mods
 - [Adorn](https://minecraft.curseforge.com/projects/adorn): Decorate your home!
 - [Always Drop Loot](https://minecraft.curseforge.com/projects/always-drop-loot): Make mobs always drop exp and loot, regardless of cause of death.
 - [Amethyst Mod (Fabric)](https://minecraft.curseforge.com/projects/amethyst-mod-fabric): Adds another level of tools and armor.
